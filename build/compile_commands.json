@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ros/slam_test_vscode/calibrateCamera/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/calibrateCamera.dir/calibrateCamera.cpp.o -c /home/ros/slam_test_vscode/calibrateCamera/calibrateCamera.cpp",
+  "file": "/home/ros/slam_test_vscode/calibrateCamera/calibrateCamera.cpp"
+}
+]
